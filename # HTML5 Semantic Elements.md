@@ -1,4 +1,4 @@
-# HTML5 Semantic Elements
+#7 HTML5 Semantic Elements
 
 ## Introduction
 HTML5 introduced semantic elements that provide meaning to the structure of a web page. These elements improve readability, accessibility, and search engine optimization (SEO). Learning how to use semantic elements is essential for building well-structured and accessible websites.
